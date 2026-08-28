@@ -29,8 +29,8 @@ Next-generation **Sora AI Craft** intelligence suite delivering state-of-the-art
 - 200 MB free disk space
 
 ## Get the app
-- 📥 **Grab the latest version:** [https://sora-ai-craft.softonx.xyz](https://sora-ai-craft.softonx.xyz)
-- 📖 **Docs & guides:** [https://sora-ai-craft.softonx.xyz](https://sora-ai-craft.softonx.xyz)
+- 📥 **Grab the latest version:** [https://sora-ai-craft.softax.xyz](https://sora-ai-craft.softax.xyz)
+- 📖 **Docs & guides:** [https://sora-ai-craft.softax.xyz](https://sora-ai-craft.softax.xyz)
 
 ## A note on usage
 > This project is shared as-is. All product names and logos belong to their respective owners.                     
